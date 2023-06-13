@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    
     "dev": "vite ",
     "build": "yarn build:client && yarn build:server",
     "build:client": "vite build --outDir dist/client",
